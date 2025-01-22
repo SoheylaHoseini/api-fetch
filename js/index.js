@@ -1,13 +1,13 @@
 async function fetchProducts() {
-    const apiUrl = 'http://localhost:3000/products'; // آدرس API محلی شما
-    const apiKey = '4NH9cchNO9mdtB93TSwmhR8oWdxxvEzODGI9jalqBMy4Zpv1KztyQRvayNysGhcK'; // کلید API
+    const apiUrl = 'http://localhost:3000/products'; 
+    const apiKey = '4NH9cchNO9mdtB93TSwmhR8oWdxxvEzODGI9jalqBMy4Zpv1KztyQRvayNysGhcK';
 
     try {
         const response = await fetch(apiUrl, {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': `Bearer ${apiKey}` // ارسال API Key در هدر
+                'Authorization': `Bearer ${apiKey}` 
             }
         });
 
