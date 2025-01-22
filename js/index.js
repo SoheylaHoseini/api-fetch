@@ -1,10 +1,19 @@
-
 async function fetchProducts() {
-   
+    const apiUrl = 'http://localhost:3000/products';
+
     try {
-        const response = await fetch('https://dummyjson.com/products');
-        const data = await response.json();
-        const products = data.products;
+        const response = await fetch(apiUrl, {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const products = await response.json();
         const productList = document.getElementById('product-list');
         productList.innerHTML = '';
 
