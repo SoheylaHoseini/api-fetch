@@ -1,6 +1,7 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-const router = jsonServer.router('db.json'); // فایل db.json شما
+const router = jsonServer.router('db.json');
+
 const middlewares = jsonServer.defaults();
 
 const API_KEY = '4NH9cchNO9mdtB93TSwmhR8oWdxxvEzODGI9jalqBMy4Zpv1KztyQRvayNysGhcK'; 
