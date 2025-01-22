@@ -1,0 +1,125 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Laptop",
+        "price": 1200,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "title": "Smartphone",
+        "price": 800,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 3,
+        "title": "Headphones",
+        "price": 200,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 4,
+        "title": "Keyboard",
+        "price": 100,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 5,
+        "title": "Mouse",
+        "price": 50,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 6,
+        "title": "Monitor",
+        "price": 300,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 7,
+        "title": "Tablet",
+        "price": 600,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 8,
+        "title": "Camera",
+        "price": 1500,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 9,
+        "title": "Speaker",
+        "price": 250,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 10,
+        "title": "Smartwatch",
+        "price": 300,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 11,
+        "title": "Gaming Console",
+        "price": 500,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 12,
+        "title": "Drone",
+        "price": 800,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 13,
+        "title": "Fitness Tracker",
+        "price": 150,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 14,
+        "title": "Projector",
+        "price": 900,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 15,
+        "title": "VR Headset",
+        "price": 400,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 16,
+        "title": "Router",
+        "price": 120,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 17,
+        "title": "External Hard Drive",
+        "price": 100,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 18,
+        "title": "Power Bank",
+        "price": 50,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 19,
+        "title": "E-Reader",
+        "price": 200,
+        "thumbnail": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 20,
+        "title": "Microphone",
+        "price": 300,
+        "thumbnail": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
